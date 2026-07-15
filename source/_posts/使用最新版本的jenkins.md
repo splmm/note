@@ -74,43 +74,43 @@ jenkins/jenkins:jdk11
 
 ### 全局工具配置
 
-![全局工具配置-1](https://note.youdao.com/yws/public/resource/cc09381137439bfec17aab8ac9385f73/xmlnote/WEBRESOURCE095450b3ce7542a6821a82be389d1f93/10551)
+![全局工具配置-1](/images/jenkins/global-tool-config-1.png)
 
-![全局工具配置-2](https://note.youdao.com/yws/public/resource/cc09381137439bfec17aab8ac9385f73/xmlnote/WEBRESOURCE44ef78cec80f40e793b1d1449ca25f1b/10552)
+![全局工具配置-2](/images/jenkins/global-tool-config-2.png)
 
-![全局工具配置-3](https://note.youdao.com/yws/public/resource/cc09381137439bfec17aab8ac9385f73/xmlnote/WEBRESOURCE0f7d666e8bf64253afd36d20764e9463/10553)
+![全局工具配置-3](/images/jenkins/global-tool-config-3.png)
 
 ## 五、插件安装与配置
 
 - 新增Maven插件
 - 安装Publish Over SSH插件
 
-![插件安装](https://note.youdao.com/yws/public/resource/cc09381137439bfec17aab8ac9385f73/xmlnote/WEBRESOURCE162f78202ffa460d9ba0566e2530ded3/10554)
+![插件安装](/images/jenkins/plugin-install.png)
 
 - 插件安装完成后，配置Over SSH
 
-![Over SSH配置](https://note.youdao.com/yws/public/resource/cc09381137439bfec17aab8ac9385f73/xmlnote/WEBRESOURCE3dc4df08fd244a24b58f1e2ff045ff52/10555)
+![Over SSH配置](/images/jenkins/over-ssh-config.png)
 
 ## 六、测试与注意事项
 
 - 测试成功，注意Docker内网访问需配置防火墙
 - Jenkins的SSH账户需使用root，否则无权限
 
-![测试结果](https://note.youdao.com/yws/public/resource/cc09381137439bfec17aab8ac9385f73/xmlnote/WEBRESOURCEc6422fbbc0014737b810253db384c394/10556)
+![测试结果](/images/jenkins/test-result.png)
 
 ## 七、Jenkins容器地址说明
 
 - 当前Jenkins的Docker地址为：172.17.0.3
 
-![Jenkins容器地址-1](https://note.youdao.com/yws/public/resource/cc09381137439bfec17aab8ac9385f73/xmlnote/WEBRESOURCEf5c383c7f93f4e73ac74fd8cb366eb0d/10557)
+![Jenkins容器地址-1](/images/jenkins/container-address-1.png)
 
-![Jenkins容器地址-2](https://note.youdao.com/yws/public/resource/cc09381137439bfec17aab8ac9385f73/xmlnote/WEBRESOURCE3d9a2824001b45b4ab3974c157ee7619/10558)
+![Jenkins容器地址-2](/images/jenkins/container-address-2.png)
 
-![Jenkins容器地址-3](https://note.youdao.com/yws/public/resource/cc09381137439bfec17aab8ac9385f73/xmlnote/WEBRESOURCE0a944bc5594a4338b52580799914a1cf/10559)
+![Jenkins容器地址-3](/images/jenkins/container-address-3.png)
 
-![Jenkins容器地址-4](https://note.youdao.com/yws/public/resource/cc09381137439bfec17aab8ac9385f73/xmlnote/WEBRESOURCE63eba3373d2140109a2ab0ece9707b53/10560)
+![Jenkins容器地址-4](/images/jenkins/container-address-4.png)
 
-![Jenkins容器地址-5](https://note.youdao.com/yws/public/resource/cc09381137439bfec17aab8ac9385f73/xmlnote/WEBRESOURCE1f0b352c534747bab91431529e8dae56/10561)
+![Jenkins容器地址-5](/images/jenkins/container-address-5.png)
 
 ## 八、后续工作与参考资料
 
